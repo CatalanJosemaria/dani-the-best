@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(https://github.com/jacingithub12/pagWeb/blob/main/PANTALLA.png?raw=true); /*https://github.com/jacingithub12/pagWeb/blob/main/PANTALLA.png?raw=true*/ /*https://i.ibb.co/wRkbsdn/imagen-premier-league.jpg*/
+    background-image: url(https://img.freepik.com/fotos-premium/elegante-cocina-contemporanea-abundantes-electrodomesticos-acero-inoxidable-lujosa-cocina-restaurante-estrella-michelin-actividades-culinarias-generadas-ia_538213-19960.jpg);
     background-repeat: no-repeat;
     background-size: cover;
  
@@ -77,23 +77,6 @@ tr:hover {
     margin-right: 10px;
 }
 
-/* Estilos para cada color */
-.blue {
-    background-color: blue; /* Azul */
-}
-
-.orange {
-    background-color: #e68a14; /* Naranja */
-}
-
-.green {
-    background-color: green; /* Verde */
-}
-
-.red {
-    background-color: red; /* Rojo */
-}
-
 .img {
     align-items: center;
 }
@@ -132,25 +115,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Clase para el color azul */
-.azul {
-    background: linear-gradient(to right, blue 10%, transparent 90%);
-}
-
-/* Clase para el color naranja */
-.naranja {
-    background: linear-gradient(to right, #e68a14 10%, transparent 90%);
-}
-
-/* Clase para el color verde */
-.verde {
-    background: linear-gradient(to right, green 10%, transparent 90%);
-}
-
-/* Clase para el color rojo */
-.rojo {
-    background: linear-gradient(to right, red 10%, transparent 90%);
-}
 
 
 /*botone 1*/
